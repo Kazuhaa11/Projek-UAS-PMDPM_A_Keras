@@ -1,0 +1,5 @@
+link streamlit: https://projek-uas-pmdpmakeras.streamlit.app/
+
+link github: https://github.com/Kazuhaa11/Projek-UAS-PMDPM_A_Keras.git
+
+link gdrive: https://drive.google.com/drive/folders/18wPE2sKo1ZMpjMFAT6K-nYMF2-jhPkSO?usp=drive_link
